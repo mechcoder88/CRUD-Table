@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Vishal Verma",
+      "email": "vishalverma1234@yahoo.com",
+      "mobile": 9876543210
+    },
+    {
+      "id": 2,
+      "name": "Amit Verma",
+      "email": "amitverma1234@yahoo.com",
+      "mobile": 9876543210
+    },
+    {
+      "id": 3,
+      "name": "Sonam Verma",
+      "email": "sonamverma1234@yahoo.com",
+      "mobile": 9876543210
+    },
+    {
+      "id": 4,
+      "name": "Sumit Verma",
+      "email": "sumitverma1234@yahoo.com",
+      "mobile": 9876543210
+    },
+    {
+      "id": 5,
+      "name": "Rishab Verma",
+      "email": "rishabverma1234@yahoo.com",
+      "mobile": 9876543210
+    },
+    {
+      "name": "Vikesh Verma",
+      "email": "vikeshverma1234@yahoo.com",
+      "mobile": 9876543210,
+      "id": 6
+    },
+    {
+      "name": "Tony Stark",
+      "email": "ironman@gmail.com",
+      "mobile": 8800312937,
+      "id": 7
+    }
+  ]
+}
